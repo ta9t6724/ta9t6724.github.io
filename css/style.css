@@ -25,11 +25,11 @@ a
 }
 a:visited
 {
-    color: #0f949b;
+    color: #ED5558;
 }
 a:hover
 {
-    color: #0f949b;
+    color: #ED5558;
 }
 a:active
 {
@@ -263,7 +263,7 @@ section h2
 }
 #works .works-box a .works-box-inner .button-readmore:hover
 {
-    background-color: #0f949b;
+    background-color: #ED5558;
 }
 #works .works-box a:hover .works-box-inner
 {
@@ -324,7 +324,7 @@ section h2
 }
 #contact ul a:hover
 {
-    background-color: #0f949b;
+    background-color: #ED5558;
 }
 footer
 {
